@@ -1,0 +1,12 @@
+{
+  "schema_version": "1",
+  "required_fields": [
+    "roadmap_ref",
+    "milestone_ref",
+    "capacity_mw",
+    "dependency_ref",
+    "evidence_digest"
+  ],
+  "time_format": "ISO-8601 with offset",
+  "digest_format": "sha256:<hex>"
+}
